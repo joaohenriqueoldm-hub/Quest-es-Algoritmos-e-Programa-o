@@ -6,4 +6,5 @@ cobre = (latao / 100) * 70
 zinco = (latao / 100) * 30
 
 # Exibir o resultado
-print(f"Para se obter {latao} kg de latão serão necessários {cobre} kg de cobre e {zinco} kg de zinco")
+
+print(f"Para se obter {latao} kg de latão serão necessários {cobre:.2f} kg de cobre e {zinco:.2f} kg de zinco")

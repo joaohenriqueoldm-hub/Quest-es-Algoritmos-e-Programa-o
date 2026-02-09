@@ -5,4 +5,5 @@ kmh = float(input("Digite a velocidade em km/h:"))
 vms = kmh / 3.6
 
 # Resultado
-print(f"A velocidade em m/s é: {vms}")
+
+print(f"A velocidade em m/s é: {vms:.2f}")

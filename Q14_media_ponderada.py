@@ -14,4 +14,5 @@ soma_dos_pesos = peso_1 + peso_2 + peso_3
 media_ponderada = soma_das_notas / soma_dos_pesos
 
 # Exibir o resultado
-print(f"A média ponderada é igual: {media_ponderada}")
+
+print(f"A média ponderada é igual: {media_ponderada:.2f}")

@@ -7,5 +7,6 @@ base_vezes_altura = base * altura
 area = base_vezes_altura / 2
 
 # Exibir o resultado
-print(f"A área do triângulo é igual a {area}")
+print(f"A área do triângulo é igual a {area:.2f}")
+
 

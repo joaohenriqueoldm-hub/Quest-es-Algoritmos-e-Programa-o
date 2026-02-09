@@ -8,4 +8,5 @@ y2 = float(input("Digite y2: "))
 distancia = ((x1 - x2)**2 + (y1 - y2)**2) ** 0.5
 
 # Resultado
-print(f"A distância entre os pontos 1 e 2 é: {distancia}")
+print(f"A distância entre os pontos 1 e 2 é: {distancia:.2f}")
+

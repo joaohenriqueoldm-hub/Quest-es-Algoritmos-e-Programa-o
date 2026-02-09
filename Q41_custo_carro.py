@@ -7,5 +7,6 @@ p_distribuidor = (custo_fabrica / 100) * 45
 custo_consumidor = custo_fabrica + p_distribuidor + p_impostos
 
 # Resultado
-print(f"O custo para o consumidor após impostos e a parcela do distribuidor é: {custo_consumidor}")
+print(f"O custo para o consumidor após impostos e a parcela do distribuidor é: {custo_consumidor:.2f}")
+
 

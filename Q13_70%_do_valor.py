@@ -6,4 +6,5 @@ porcentagem = ((valor_original / 10) * 3)
 novo_valor = valor_original - porcentagem
 
 # Exibindo o resultado
-print(f"O novo valor é: R${novo_valor}")
+
+print(f"O novo valor é: R${novo_valor:.2f}")

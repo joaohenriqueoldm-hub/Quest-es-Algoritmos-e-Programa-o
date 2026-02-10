@@ -12,4 +12,4 @@ diferenca = numero_1 - numero_2
 divisao = soma / diferenca
 
 # Resultado
-print(f"O resultado da divisão entre {soma} e {diferenca} é: {divisao}")
+print(f"O resultado da divisão entre {soma} e {diferenca} é: {divisao:.2f}")

@@ -5,4 +5,4 @@ farenheit = float(input("Digite o valor em graus farenheit:"))
 celsius = (5 * farenheit - 160) / 9
 
 # Exibir o resultado
-print(f"{farenheit} °F são iguais a {celsius} °C")
+print(f"{farenheit} °F são iguais a {celsius:.2f} °C")

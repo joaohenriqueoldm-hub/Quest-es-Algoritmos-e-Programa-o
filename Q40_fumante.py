@@ -10,5 +10,5 @@ custo_anual = custo_diario * 365
 gasto_total = custo_anual * anos
 
 # Exibir o resultado
-print(f"O gasto total com cigarros é de {gasto_total} reais")
+print(f"O gasto total com cigarros é de {gasto_total:.2f} reais")
 

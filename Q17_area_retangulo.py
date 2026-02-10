@@ -6,4 +6,4 @@ altura = float(input("Digite o comprimento da altura do retângulo:"))
 area = base * altura
 
 # Exibir o resultado
-print(f"A área do retângulo é igual a {area}")
+print(f"A área do retângulo é igual a {area:.2f}")

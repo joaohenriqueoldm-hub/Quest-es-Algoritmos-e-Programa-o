@@ -8,4 +8,4 @@ soma = num1 + num2 + num3
 media = soma / 3
 
 # Exibir o resultado
-print(f"A média é igual a {media}")
+print(f"A média é igual a {media:.2f}")

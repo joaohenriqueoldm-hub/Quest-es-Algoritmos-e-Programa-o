@@ -6,4 +6,4 @@ pi = 3.14
 circunferencia = 2 * raio * pi
 
 # Exibir o resultado
-print(f"A cirfunferência mede: {circunferencia}")
+print(f"A cirfunferência mede: {circunferencia:.2f}")
